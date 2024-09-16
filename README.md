@@ -7,7 +7,7 @@
   Telegram: @kirillthegreatest
 
 - My projects:
-  - Furniture app inspired by IKEA: https://kirill-a-rakhmanov.github.io/x-furniture-vite/
+  - Furniture app inspired by IKEA and based on FSD methodology: https://kirill-a-rakhmanov.github.io/x-furniture-vite/
 <!--
 **Kirill-A-Rakhmanov/kirill-a-rakhmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
