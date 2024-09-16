@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a simple weather app 
+- 🌱 I’m currently learning TypeScript and how to use it in my apps. I am also learning how to configure bundlers like webpack and vite
+- 📫 How to reach me:
+  Gmail: kirill.a.rakhmanov@gmail.com
+  Telegram: @kirillthegreatest
+
+- My projects:
+  - Furniture app inspired by IKEA: https://kirill-a-rakhmanov.github.io/x-furniture-vite/
 <!--
 **Kirill-A-Rakhmanov/kirill-a-rakhmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
